@@ -1,5 +1,6 @@
 x = [7,4,3,2,5,8,9]
-x.append - adding new element in the behind
-x.sort - sorting elements from lower to bigger
+x.append() - adding new element in the behind
+x.sort() - sorting elements from lower to bigger
 x.count() - get how many elements in the list
-x.reverse - sorting from bigger to lower
+x.reverse() - sorting from bigger to lower
+x.pop() - deleting last element in the list
